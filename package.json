@@ -1,0 +1,24 @@
+{
+  "name": "html-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abigail-cloud/html-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abigail-cloud/html-pages/issues"
+  },
+  "homepage": "https://github.com/Abigail-cloud/html-pages#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
